@@ -1,0 +1,16 @@
+{
+  "bulk":
+    [
+    { "name": "",  "unit": "tray(s)","priceperunit": "0.00","note":"" },
+    { "name": "Butter Chicken",  "unit": "tray(s)","priceperunit": "12.00","note":"Minimum 1/2 tray" },
+    { "name": "Naan",  "unit": "piece(s)","priceperunit": "1.50","note":"Minimum 25 pieces" },
+    { "name": "Biryani",  "unit": "lb(s)","priceperunit": "10.00","note":"Comes with raita, minimum 5.0 lb" }
+  ],
+  "alacarte":
+  [
+    { "name": "",  "unit": "tray(s)","priceperunit": "0.00","note":"" },
+    { "name": "Butter Chicken",  "unit": "serving(s)","priceperunit": "12.00","note":"Comes with rice" },
+    { "name": "Naan",  "unit": "piece(s)","priceperunit": "1.50","note":"Comes with rice" },
+    { "name": "Biryani",  "unit": "lb(s)","priceperunit": "10.00","note":"Comes with raita" }
+    ]
+ }
